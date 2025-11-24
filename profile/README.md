@@ -1,17 +1,10 @@
-# Swamy's Architect Journey 2026
+# SwamysArchitectJourney-2026
 
-Welcome to my **2026 Learning Journey** - a comprehensive platform for software architecture, design patterns, system design, and cloud computing.
-
-## 🎯 What is this?
-
-This organization contains my learning journey for 2026, organized into:
-
-- **📚 Educational Content** - Generic, language-agnostic documentation, concepts, and learning materials
-- **💻 Code Repositories** - Language-specific implementations and hands-on projects
+2026 Learning Journey: Educational content and code implementations for software architects. Design patterns, system architecture, cloud computing, and AI/ML.
 
 ## 📚 Educational Content
 
-**[ArchitectJourney](https://github.com/SwamysArchitectJourney-2026/ArchitectJourney)** - The main repository containing:
+**ArchitectJourney** - The main repository containing:
 - Design patterns and principles
 - System architecture concepts
 - Learning paths and roadmaps
@@ -24,13 +17,13 @@ This organization contains my learning journey for 2026, organized into:
 
 All code implementations are organized by language/technology:
 
-- [Python](https://github.com/SwamysArchitectJourney-2026/Python) - Python projects and implementations
-- [C#](https://github.com/SwamysArchitectJourney-2026/CSharp) - C# and .NET projects
-- [JavaScript](https://github.com/SwamysArchitectJourney-2026/JavaScript) - JavaScript/TypeScript/Node.js projects
-- [Java](https://github.com/SwamysArchitectJourney-2026/Java) - Java and Spring Boot projects
-- [Go](https://github.com/SwamysArchitectJourney-2026/Go) - Go projects
-- [Cloud](https://github.com/SwamysArchitectJourney-2026/Cloud) - Infrastructure as Code (Terraform, ARM, Bicep, Pulumi)
-- [AI-ML](https://github.com/SwamysArchitectJourney-2026/AI-ML) - AI/ML implementations
+* 🐍 [Python](https://github.com/SwamysArchitectJourney-2026/Python) - Python projects and implementations
+* 🔷 [C#](https://github.com/SwamysArchitectJourney-2026/CSharp) - C# and .NET projects
+* 📜 [JavaScript](https://github.com/SwamysArchitectJourney-2026/JavaScript) - JavaScript/TypeScript/Node.js projects
+* ☕ [Java](https://github.com/SwamysArchitectJourney-2026/Java) - Java and Spring Boot projects
+* 🐹 [Go](https://github.com/SwamysArchitectJourney-2026/Go) - Go projects
+* ☁️ [Cloud](https://github.com/SwamysArchitectJourney-2026/Cloud) - Infrastructure as Code (Terraform, ARM, Bicep, Pulumi)
+* 🤖 [AI-ML](https://github.com/SwamysArchitectJourney-2026/AI-ML) - AI/ML implementations
 
 ## 🌟 Topics Covered
 
@@ -56,9 +49,9 @@ Future organizations (2027, 2028, etc.) will continue this journey.
 
 ## 🔗 Useful Resources
 
-- **[Main Educational Repository](https://github.com/SwamysArchitectJourney-2026/ArchitectJourney)** - Start here for all learning materials
-- **[Repository Structure Guide](https://github.com/SwamysArchitectJourney-2026/ArchitectJourney/blob/main/docs/02_RepositoryStructure.md)** - Understand the organization
-- **[Multi-Repo Strategy](https://github.com/SwamysArchitectJourney-2026/ArchitectJourney/blob/main/docs/05_Multi-Repo-Strategy.md)** - Learn about the architecture
+* **Main Educational Repository** - [ArchitectJourney](https://github.com/SwamysArchitectJourney-2026/ArchitectJourney)
+* **Repository Structure Guide** - [Documentation](https://github.com/SwamysArchitectJourney-2026/ArchitectJourney/tree/main/docs)
+* **Multi-Repo Strategy** - [Strategy Document](https://github.com/SwamysArchitectJourney-2026/ArchitectJourney/blob/main/docs/01_GitHub-Organization-Strategy.md)
 
 ## 🤝 Contributing
 
