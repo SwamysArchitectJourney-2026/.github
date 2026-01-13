@@ -4,8 +4,8 @@ This document defines the **governance rules, quality standards, and expectation
 for all repositories under the **SwamysArchitectJourney-2026** GitHub organization.
 
 It exists to **protect the architectural integrity** of this organization and to
-ensure that all hosted work reflects **mastery, system-level thinking, and
-production-oriented design**.
+ensure that all hosted work reflects **system-level thinking, architectural
+judgment, and production-oriented design**.
 
 ---
 
@@ -14,10 +14,10 @@ production-oriented design**.
 This organization is strictly intended for:
 
 - Architectural showcase work
-- System design and engineering maturity
-- Production-oriented implementations
-- Reference-quality repositories
+- System design and software architecture maturity
+- Production-oriented and reference-quality implementations
 - Clearly reasoned design decisions and trade-offs
+- Curated, review-ready repositories
 
 It is **not** intended for learning, experimentation, or early-stage practice.
 
@@ -28,12 +28,12 @@ It is **not** intended for learning, experimentation, or early-stage practice.
 Repositories hosted here must:
 
 - Demonstrate architectural intent from the outset
-- Be intentionally structured and curated
-- Minimize drafts, experiments, and exploratory artifacts
+- Be intentionally structured and thoughtfully curated
 - Reflect system-level reasoning rather than isolated techniques
-- Be review-ready by design
+- Minimize drafts, experiments, and exploratory artifacts
+- Be suitable for peer, reviewer, or recruiter evaluation
 
-Repositories that are still learning-focused, experimental, or exploratory
+Repositories that are still learning-focused, exploratory, or experimental
 **must remain in**:
 
 **Swamy-s-Tech-Skills-Academy-2026**
@@ -79,7 +79,7 @@ Each repository is expected to include:
 - Supporting documentation (diagrams, ADR-style notes, etc.)
 - Minimal exploratory or throwaway content
 
-Clarity and intent are mandatory.  
+Clarity and architectural intent are mandatory.  
 Elegance is preferred over excess.
 
 ---
@@ -99,9 +99,10 @@ Commits in this organization must be:
 - `document scaling trade-offs for read-heavy workloads`
 
 Avoid:
-- Noisy commit histories
+
 - Trial-and-error commits
 - Tutorial-style progression
+- Noisy or exploratory commit histories
 
 ---
 
@@ -124,12 +125,13 @@ Such work belongs in the **Tech Skills Academy**.
 
 > **This organization exists to demonstrate architectural judgment.**
 
-Every repository should answer:
-- *Why is the system designed this way?*
-- *What trade-offs were made, and why?*
-- *How would this evolve under real constraints?*
+Every repository should clearly answer:
 
-If those answers are not clear, the repository is not ready to be here.
+- Why is the system designed this way?
+- What trade-offs were made, and why?
+- How would this system evolve under real-world constraints?
+
+If those answers are not evident, the repository is not ready to be here.
 
 ---
 
@@ -149,4 +151,4 @@ where appropriate.
 
 ---
 
-Maintained as part of **Swamy’s Architect Journey | 2026**
+Maintained as part of **Swamy’s Architect Journey | 2025 - 2026**
